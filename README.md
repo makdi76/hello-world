@@ -1,2 +1,2 @@
 # hello-world
-hello git
+So, my name is Dmitry. I'm from Moscow.
